@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdave",
+        "uuid": 3361224,
+        "checksum": "r98ou"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
